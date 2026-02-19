@@ -1,5 +1,5 @@
 loans:
-  message: "Welcome to Loans Microservice"
+  message: "Welcome to Loans Microservice PROD API"
   contactDetails:
     name: "Ganesh PROD"
     email: "ganeshprod@bank.com"

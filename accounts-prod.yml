@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to Accounts Microservice"
+  message: "Welcome to Accounts Microservice PROD API"
   contactDetails:
     name: "Ganesh PROD"
     email: "ganeshprod@bank.com"

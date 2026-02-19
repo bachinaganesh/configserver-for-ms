@@ -1,5 +1,5 @@
 loans:
-  message: "Welcome to Loans Microservice"
+  message: "Welcome to Loans Microservice QA API"
   contactDetails:
     name: "Ganesh QA"
     email: "ganeshqa@bank.com"

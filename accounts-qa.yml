@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to Accounts Microservice"
+  message: "Welcome to Accounts Microservice QA API"
   contactDetails:
     name: "Ganesh QA"
     email: "ganeshqa@bank.com"
