@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to Accounts Microservice"
+  contactDetails:
+    name: "Ganesh DEV"
+    email: "ganeshdev@bank.com"
+  onCallSupport:
+    - (+91) 987665
+    - (+09) 879008

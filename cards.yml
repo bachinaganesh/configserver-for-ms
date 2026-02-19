@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Cards Microservice"
+  contactDetails:
+    name: "Ganesh DEV"
+    email: "ganeshdev@bank.com"
+  onCallSupport:
+    - (+91) 76778909876
+    - (+09) 56789089763
