@@ -1,5 +1,5 @@
 cards:
-  message: "Welcome to Cards Microservice PROD API"
+  message: "Welcome to Cards Microservice PRODUCTION API"
   contactDetails:
     name: "Ganesh PROD"
     email: "ganeshprod@bank.com"
