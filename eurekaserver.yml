@@ -4,4 +4,4 @@ eureka:
     register-with-eureka: false
 
 server:
-  port: 8072
+  port: 8070
